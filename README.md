@@ -15,5 +15,5 @@ Dados de comércio, retirados da base de dados do
 ## Installation
 
 ``` r
-remotes::install_github("NIEscaec/comerciomundo")
+remotes::install_github("NIEscaec/comerciomundo2")
 ```
