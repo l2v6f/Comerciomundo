@@ -80,7 +80,7 @@ usethis::use_data(dic_partners)
 
 # Nomes dos países - do MDIC ao Comtrade
 
-dic_comtrade <- comerciomundo::dic_reporters %>%
+dic_comtrade <- comerciomundo2::dic_reporters %>%
   dplyr::mutate(id = as.numeric(id)) %>%
   tidyr::drop_na()
 
