@@ -1,8 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# comerciomundo2
-
+# Comercio Mundo
 <!-- badges: start -->
 
 [![Lifecycle:
